@@ -16,7 +16,7 @@ public class Main extends Application {
         primaryStage.show();
     }
 
-
+    //Testar att lägga in en kommentar
     public static void main(String[] args) {
         launch(args);
     }
